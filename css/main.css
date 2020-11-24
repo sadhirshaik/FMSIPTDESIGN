@@ -21,7 +21,7 @@ html {
     margin: 0 auto;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(#0046bed0, #0046bed0), url(/resources/bestbuy-store.jpg);
+    background-image: linear-gradient(#0046bed0, #0046bed0), url(../resources/bestbuy-store.jpg);
     height: 100vh;
 }
 
